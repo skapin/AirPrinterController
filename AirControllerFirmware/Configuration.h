@@ -1,0 +1,4 @@
+
+
+#define MAX_BYTE_RECEIVED 1024
+#define END_COMMAND_DELIMITER '.'
